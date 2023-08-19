@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Max
 
-I'm a high school student in NJ, and I love computer science!
+I'm a high school student in NJ, and I love computer science and engineering!
 
-- 🔭 Currently, I'm working on two-wheeled self-balancing robot: [repo](https://github.com/AgentMax05/piSelfBalancingBot)
-- 🔎 Currently, I'm interested in electrical engineering
-- 🌱 Currently, I'm learning more about electricity and magnetism
+- 🔭 I'm working on a two-wheeled self-balancing robot: [repo](https://github.com/AgentMax05/piSelfBalancingBot)
+- 🔎 I'm interested in electrical engineering
+- 🌱 I'm learning more about science!
